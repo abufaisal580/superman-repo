@@ -1,0 +1,84 @@
+.superman-left h1{
+    color: gray;
+    font-size: 90px;
+
+}
+.superman-left h3{
+    font-size: 40px;
+}
+.superman-left{
+    margin-left: 150px;
+}
+#superman{
+    display: flex;
+    justify-content: space-between;
+}
+.superman-right img{
+    width: 500px;
+    margin-right:300px;
+    margin-top: 70px;
+
+}
+.superman-two-left img{
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 300px;
+}
+.superman-two-right p{
+font-size: 30px;
+font-family: cursive;
+margin-right: 300px;
+}
+#superman-two{
+    display: flex;
+    justify-content: space-between;
+}
+.superman-two-right{
+    width: 800px;
+}
+.web-devolop-one{
+    width: 900px;
+    height: 450px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.web-devolop-one img{
+    width: 70px;
+}
+#web-devolop{
+    display: flex;
+    justify-content: space-between;
+}
+.web-devolop-two{
+    width: 900px;
+    height: 450px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.web-devolop-three{
+    width: 900px;
+    height: 450px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.web-devolop-two img{
+
+    width: 70px;
+}
+    .web-devolop-three img{
+
+        width: 70px;
+    }
+    .web-devolop-one h1{
+        display: flex;
+        justify-content: center;
+        font-size: 50px;
+    }
+    .web-devolop-two h1{
+        display: flex;
+        justify-content: center;
+        font-size: 50px;
+    }
+    .web-devolop-three h1{
+        display: flex;
+        justify-content: center;
+        font-size: 50px;
+    }
